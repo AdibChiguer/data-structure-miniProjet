@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1681483987 source:c:\users\hp\desktop\miniproject\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1681436960 source:c:\users\hp\desktop\tp\s2-sdd\miniproject\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
